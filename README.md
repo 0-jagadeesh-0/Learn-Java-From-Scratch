@@ -22,3 +22,7 @@ Java Platform is a collection of programs that help programmers to develop and r
 - Used in Web servers and application servers
 - Used in developing Games.
 - Scientific Computing Applications.
+
+## Features of Java
+
+![image](assets/Slide1.PNG)
