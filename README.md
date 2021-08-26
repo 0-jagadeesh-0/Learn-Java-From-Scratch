@@ -1,7 +1,7 @@
 # Learn-Java-From-Scratch
 This is the perfect repository to start with java.
 
- <img src="https://img.icons8.com/color/144/000000/java-coffee-cup-logo--v1.png"/>
+ <img align="center" src="https://img.icons8.com/color/144/000000/java-coffee-cup-logo--v1.png"/>
 
 ## What is Java?
 
