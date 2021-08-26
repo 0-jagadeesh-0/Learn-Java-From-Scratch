@@ -25,4 +25,4 @@ Java Platform is a collection of programs that help programmers to develop and r
 
 ## Features of Java
 
-![image](./assets/Slide1.PNG)
+![image](assets/Slide1.PNG)
