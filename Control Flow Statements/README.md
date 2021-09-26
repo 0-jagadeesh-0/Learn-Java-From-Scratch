@@ -28,7 +28,10 @@ There are various types in if statements.
 ***Syntax***
 
 `if(condition)`
+
 `{`
+
    ` //code to be executed.`
+   
 `}`
 
