@@ -2,10 +2,10 @@
 
 Java provides three types of control flow statements.
 
-- ## Decision Making statements
+- ## Decision Making Statements
     - if statement
     - switch statement
-- ## Loop Statement
+- ## Loop Statements
     - do while loop
     - while loop
     - for loop
@@ -23,7 +23,7 @@ There are various types in if statements.
 - if-else-if statement
 - nested if statement 
 
-**if Statement**
+- **if Statement**
 
 ***Syntax***
 
@@ -34,3 +34,53 @@ if(condition)
 }
 </code>
 
+- **if-else Statement**
+
+***Syntax***
+
+<code>
+if(condition)
+{
+    // Executes if condition is true.
+}
+else
+{
+    // Executes if condition is false.
+}
+</code>
+
+- **if-else-if Statement**
+
+***Syntax***
+
+<code>
+if(condition-1)
+{
+    // Executes if condition-1 is true.
+}
+else if(condition-2)
+{
+    // Executes if condition-2 is true.
+}
+
+...
+
+else
+{
+    // Executes if all conditions are false.
+}
+</code>
+
+- **Nested if Statement**
+
+***Syntax***
+
+<code>
+if(condition)
+{
+    // Executes the below code if the condition is true.
+    if(condition)
+    {
+        // Executes the code if the condition was true.
+    }
+}
