@@ -124,6 +124,7 @@ The Java switch statement executes one statement from multiple conditions. It is
 
 <code>
 switch(expression)
+{
 
 case value1:
 
@@ -146,6 +147,8 @@ case value3:
 default:
 
     //code to be executed if all statements are not matched.
+    
+}
 </code>
 
 > ## for Loop
