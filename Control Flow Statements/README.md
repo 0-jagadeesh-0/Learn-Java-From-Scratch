@@ -58,7 +58,6 @@ else
     // Executes if condition is false.
 
 }
-
 </code>
 
 ### **if-else-if Statement**
@@ -84,7 +83,6 @@ else if(condition-2)
 
 
 ...
-
 
 
 else
@@ -116,5 +114,39 @@ if(condition)
     }
 
 }
+</code>
 
-<hr />
+> ## switch statement
+
+The Java switch statement executes one statement from multiple conditions. It is like if-else-if ladder statement.
+
+***Syntax***
+
+<code>
+switch(expression)
+
+case value1:
+
+    //code to be executed
+
+    break;
+
+case value2:
+
+    //code to be executed
+
+    break;
+
+case value3:
+
+    //code to be executed
+
+    break;
+
+default:
+
+    //code to be executed if all statements are not matched.
+</code>
+
+> ## for Loop
+
