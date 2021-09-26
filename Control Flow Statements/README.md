@@ -27,11 +27,10 @@ There are various types in if statements.
 
 ***Syntax***
 
-<code>if(condition)
-
+<code>
+if(condition)
 {
-
      //code to be executed.
-
-}</code>
+}
+</code>
 
