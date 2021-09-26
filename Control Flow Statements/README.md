@@ -29,8 +29,11 @@ There are various types in if statements.
 
 <code>
 if(condition)
+
 {
+
      //code to be executed.
+
 }
 </code>
 
@@ -40,13 +43,21 @@ if(condition)
 
 <code>
 if(condition)
+
 {
+
     // Executes if condition is true.
+
 }
+
 else
+
 {
+
     // Executes if condition is false.
+
 }
+
 </code>
 
 - **if-else-if Statement**
@@ -55,19 +66,32 @@ else
 
 <code>
 if(condition-1)
+
 {
+
     // Executes if condition-1 is true.
+
 }
+
 else if(condition-2)
+
 {
+
     // Executes if condition-2 is true.
+
 }
+
 
 ...
 
+
+
 else
+
 {
+
     // Executes if all conditions are false.
+
 }
 </code>
 
@@ -77,10 +101,17 @@ else
 
 <code>
 if(condition)
+
 {
+
     // Executes the below code if the condition is true.
+    
     if(condition)
+    
     {
+    
         // Executes the code if the condition was true.
+    
     }
+
 }
