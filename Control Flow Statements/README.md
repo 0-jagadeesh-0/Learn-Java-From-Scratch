@@ -26,8 +26,9 @@ There are various types in if statements.
 **if Statement**
 
 ***Syntax***
-`if(condition)
-{
-    //code to be executed.
-}`
+
+`if(condition)`
+`{`
+   ` //code to be executed.`
+`}`
 
