@@ -1,7 +1,7 @@
 # Data Types in Java
 
 There are two types of data types 
-- Primitive Data Type
+- [Primitive Data Type](https://github.com/0-jagadeesh-0/Learn-Java-From-Scratch/tree/main/Basics%20of%20Java/Data%20types#primitive-data-types)
 - Reference Data Type
 
 ### Primitive Data Types
