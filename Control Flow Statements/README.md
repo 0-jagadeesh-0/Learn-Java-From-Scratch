@@ -23,7 +23,8 @@ There are various types in if statements.
 - if-else-if statement
 - nested if statement 
 
-- **if Statement**
+
+### **if Statement**
 
 ***Syntax***
 
@@ -37,7 +38,7 @@ if(condition)
 }
 </code>
 
-- **if-else Statement**
+### **if-else Statement**
 
 ***Syntax***
 
@@ -60,7 +61,7 @@ else
 
 </code>
 
-- **if-else-if Statement**
+### **if-else-if Statement**
 
 ***Syntax***
 
@@ -95,7 +96,7 @@ else
 }
 </code>
 
-- **Nested if Statement**
+### **Nested if Statement**
 
 ***Syntax***
 
@@ -115,3 +116,5 @@ if(condition)
     }
 
 }
+
+<hr />
