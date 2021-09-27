@@ -216,9 +216,13 @@ The Java do-while loop is used to iterate a part of the program repeatedly, unti
 
 <code>
 do
+
 {
+ 
     //code to be executed.
+
 }while(condition);
+</code>
 
 > ## Break Statement
 
