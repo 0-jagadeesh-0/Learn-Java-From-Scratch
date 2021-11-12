@@ -1,5 +1,3 @@
-package Problems.Basic_Problems;
-
 import java.util.*;
 
  class Factors
